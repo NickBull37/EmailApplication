@@ -8,6 +8,7 @@ This is a simple email application implemeted using a ASP.NET Web Api that takes
 * [Libraries Used](#libraries-used)
 * [Features](#features)
 * [Setup](#setup)
+* [Execution](#execution)
 * [Testing with Swagger](#testing-with-swagger)
 * [Testing with Postman](#testing-with-postman)
 
