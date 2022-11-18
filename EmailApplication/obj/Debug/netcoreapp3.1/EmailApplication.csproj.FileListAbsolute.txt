@@ -1,0 +1,92 @@
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.exe
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.deps.json
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.runtimeconfig.json
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.runtimeconfig.dev.json
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.pdb
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.csproj.AssemblyReference.cache
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.AssemblyInfoInputs.cache
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.AssemblyInfo.cs
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.csproj.CoreCompileInputs.cache
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\staticwebassets\EmailApplication.StaticWebAssets.Manifest.cache
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\staticwebassets\EmailApplication.StaticWebAssets.xml
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmailApplication.styles.css
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.csproj.CopyComplete
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.dll
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.pdb
+C:\Users\Nick Bulisky\source\repos\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.genruntimeconfig.cache
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.exe
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.deps.json
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.runtimeconfig.json
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.runtimeconfig.dev.json
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\EmailApplication.pdb
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Serilog.Exceptions.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Code\emailapplication\EmailApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.AssemblyInfoInputs.cache
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.AssemblyInfo.cs
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.csproj.CoreCompileInputs.cache
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\staticwebassets\EmailApplication.StaticWebAssets.Manifest.cache
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\staticwebassets\EmailApplication.StaticWebAssets.xml
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmailApplication.styles.css
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.RazorTargetAssemblyInfo.cache
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.csproj.CopyComplete
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.dll
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.pdb
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.genruntimeconfig.cache
+C:\Code\emailapplication\EmailApplication\obj\Debug\netcoreapp3.1\EmailApplication.csproj.AssemblyReference.cache
